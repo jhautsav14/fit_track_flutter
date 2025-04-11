@@ -1,0 +1,52 @@
+food_name,calories_per_100g,protein_per_100g,carbs_per_100g,fat_per_100g
+Apple,52,0.3,14,0.2
+Banana,96,1,23,0.3
+Chapati (Whole Wheat),297,11.5,46,9
+"Rice (White, Cooked)",130,2.7,28,0.3
+Dal (Cooked Lentils),116,7.5,20,0.4
+Chicken Breast,165,31,0,3.6
+Egg (Whole),155,13,1.1,11
+Milk (Whole),60,3.4,4.8,3.7
+Curd (Plain Yogurt),98,11,3.4,4.3
+Paneer,265,18,1.2,20
+Samosa,262,4.2,31,13
+Idli,39,1.9,8,0.2
+Dosa,133,3,22,4.6
+Aloo Paratha,326,6.5,46,12
+Rajma (Kidney Beans),127,8.7,22,0.5
+Chana Masala,164,7.5,27,2.6
+Biryani (Vegetable),150,4,25,3.5
+Biryani (Chicken),180,12,20,6.5
+Butter Chicken,230,14,8,16
+Palak Paneer,132,6.5,8,8.5
+Gobi Manchurian,210,4,30,8
+Pakora,270,5,30,14
+Jalebi,300,3,65,6
+Gulab Jamun,150,4,25,4
+Rasgulla,186,4.5,38,1.5
+Lassi (Sweet),120,3.5,20,2.5
+Chai (With Milk & Sugar),50,1.5,9,1
+Coconut Water,19,0.7,4,0.2
+Mango,60,0.8,15,0.4
+Papaya,43,0.5,11,0.3
+Guava,68,2.6,14,1
+Cucumber,16,0.7,3.6,0.1
+Tomato,18,0.9,3.9,0.2
+Onion,40,1.1,9.3,0.1
+Potato,77,2,17,0.1
+Sweet Potato,86,1.6,20,0.1
+Carrot,41,0.9,10,0.2
+Cauliflower,25,1.9,5,0.3
+Brinjal (Eggplant),25,1,6,0.2
+Ladyfinger (Okra),33,1.9,7,0.2
+Peanuts,567,26,16,49
+Cashew Nuts,553,18,30,44
+Almonds,579,21,22,50
+Poha (Flattened Rice),110,2.5,23,0.5
+Upma,140,3.5,25,3
+Dhokla,160,5,30,2
+Vada,270,5,35,12
+Puri,300,5,40,12
+Bhatura,340,6,50,12
+Roti (Multigrain),300,10,50,6
+Paratha (Plain),300,6,45,10

@@ -1,0 +1,47 @@
+workout_name,calories_per_rep
+Push-ups,0.5
+Squats,0.4
+Lunges,0.3
+Sit-ups,0.25
+Jumping Jacks,0.15
+Burpees,0.8
+Pull-ups,0.6
+Dips,0.35
+Mountain Climbers,0.2
+High Knees,0.1
+Plank (per minute),0.05
+Wall Sit (per minute),0.07
+Russian Twists,0.15
+Leg Raises,0.1
+Bicep Curls,0.15
+Shoulder Press,0.2
+Deadlifts,0.5
+Bench Press,0.3
+Kettlebell Swings,0.4
+Box Jumps,0.35
+Running (6 mph/9.7 kph),10
+Cycling (12-14 mph),8
+Swimming (freestyle),9
+Yoga (Hatha),3
+Jump Rope,12
+Stair Climbing,7
+Rowing (moderate),6
+Elliptical Trainer,7
+Zumba,5
+Aerobics (low impact),4
+Aerobics (high impact),7
+Pilates,3
+HIIT,10
+Kickboxing,8
+Dancing (bollywood),5
+Walking (brisk 3.5 mph),4
+Hiking,6
+Football/Soccer,8
+Basketball,7
+Badminton,5
+Cricket (batting/bowling),4
+Yoga (Power),5
+Yoga (Vinyasa),4
+Yoga (Ashtanga),6
+Tai Chi,2
+Stretching,2
