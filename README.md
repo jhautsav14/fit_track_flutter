@@ -26,10 +26,16 @@ FitTrack is a sleek, cross-platform Flutter application designed to help users s
   - Efficient data flow between UI and controllers.
   - Snackbars for interactive user feedback.
 
+- 🛠️ **Technologies Used**
+  - Flutter 🐦
+  - Dart 💙
+  - GetX ⚡
+  - CSV Parsing
+
 
 👨‍💻 Author
 Utsav Kumar
 Computer Science & Engineering (2021–2025)
-🌐 LinkedIn | 💻 GitHub
+🌐 [LinkedIn](https://in.linkedin.com/in/utsavkumar14) | 💻 [GitHub](https://github.com/jhautsav14)
 
 
