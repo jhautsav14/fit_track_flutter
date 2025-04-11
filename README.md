@@ -1,16 +1,35 @@
-# fit_track
+# 💪 FitTrack - Personal Fitness & Nutrition Tracker
 
-A new Flutter project.
+FitTrack is a sleek, cross-platform Flutter application designed to help users stay on top of their fitness goals. Whether you're monitoring meals, workouts, or daily calorie burn — FitTrack makes it intuitive, visual, and effective.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🏠 **Dashboard/Homepage**
+  - Clean and interactive UI displaying a daily summary.
+  - Motivational message with the current date.
 
-A few resources to get you started if this is your first Flutter project:
+- 🍽️ **Meals Today**
+  - Add meals dynamically and view total calories consumed.
+  - Stylish meal cards with progress indicators.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 💪 **Workout Calorie Tracker**
+  - Input workouts, sets, and repetitions to calculate calories burned.
+  - Data fetched from a `workout_data.csv` file.
+  - Beautifully animated cards with detailed input forms.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔥 **Workout Summary Card**
+  - Real-time list of workouts performed today.
+  - Summary of total calories burned.
+  - Logged details: workout name, sets, reps/duration, calories.
+
+- ✅ **State Management with GetX**
+  - Efficient data flow between UI and controllers.
+  - Snackbars for interactive user feedback.
+
+
+👨‍💻 Author
+Utsav Kumar
+Computer Science & Engineering (2021–2025)
+🌐 LinkedIn | 💻 GitHub
+
+
